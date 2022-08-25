@@ -1,0 +1,19 @@
+{
+  "name": "random-color-pallet-generator",
+  "version": "1.0.0",
+  "description": "Generates a random color pallet using JS canvas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FissionFeline/random-color-pallet-generator.git"
+  },
+  "author": "Furious feline/ fission Feline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FissionFeline/random-color-pallet-generator/issues"
+  },
+  "homepage": "https://github.com/FissionFeline/random-color-pallet-generator#readme"
+}
