@@ -19,7 +19,6 @@ while (val !== 600) {
     ctx.fillStyle = getRandomColor();
     ctx.fillRect(val, 0, 100, 100);
     val = val + 100
-
 }
 
 const buffer = canvas.toBuffer('image/png')
